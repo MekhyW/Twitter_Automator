@@ -1,0 +1,66 @@
+YT:
+- IGN = A1
+- Sherbert Shenanigans = A2
+- Stormi Folf = A3
+- Imaginatively Unimaginative = A4
+- JonKaGor = A5
+- Mark Rober = A6
+- Andreas Spiess = A7
+- Computerphile = A8
+- Michael Reeves = A9
+- Robotics Weekends = A10
+- Pkrussl = A11
+- BostonDynamics = A12
+- BattleBots = A13
+- Psych2Go = A14
+- Jombo = A15
+- TheOddOne´sOut = A16
+- Atty-Boyyo = A17
+- Glitch = A18
+- Pocari Roo = A19
+- Kiwi Fox = A20
+- Ash Coyote = A21
+- Crash Azarel = A22
+- Tsu Tsudios = A23
+- Fluke = A24
+- Solarsaber = A25
+- Olive Cow = A26
+- Kiba Doglover = A27
+- Blu = A28
+- Chipflake = A29
+- DopeTalk = A30
+- FurryFoofi = A31
+- SonicFoxVods = A32
+- Rachel Loal = A33
+- Phoenix Nest = A34
+- Nos Hyena = A35
+- BetaEtaDelota = A36
+- Pineapple Fox = A37
+- Majira Strawberry = A38
+- Odin Wolf = A39
+- ElectroBOOM = A40
+- TheCodingTrain = A41
+- GitHub = A42
+- Internet Historian = A43
+
+RD:
+- (NOTHING) = B1 (include original url)
+- r/furry_irl = B2
+- r/fursedimages = B3
+- r/softwaregore = B4 (include original url)
+- r/blursedimages = B5
+- r/ProgrammerHumor = B6
+- r/yiffinhell = B7
+
+EXTRA:
+- Instagram photo port
+- Instagram video port
+- Product Hunt comment port
+- Product Hunt newhot automate
+- Spotify from YT port
+- Spotify newonplaylist automate
+- Spotify newonweekly automate
+- GitHub newrep automate
+- GitHub newissue automate
+- GitHub closedissue automate
+- NASA breakingnews automate
